@@ -1,4 +1,5 @@
 wp-content/plugins/*
+wp-content/uploads/*
 wp-config.php
 *private*
 *old*

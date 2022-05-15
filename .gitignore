@@ -1,1 +1,2 @@
-wp-contents/plugins/*
+wp-content/plugins/*
+wp-config.php

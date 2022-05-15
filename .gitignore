@@ -1,2 +1,5 @@
 wp-content/plugins/*
 wp-config.php
+*private*
+*old*
+*backup*
